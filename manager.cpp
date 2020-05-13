@@ -12,7 +12,7 @@ Manager::Manager(int threads_count){
 }
 
 void Manager::start_threads(){
-    vector_of_threads.reserve(am_of_threads+2);
+    vector_of_threads.reserve(1+am_of_threads*2);
 
     for (int i = 0; i < 1; i++) {
         vector_of_threads.emplace_back(paths_to_vecs,
@@ -23,8 +23,8 @@ void Manager::start_threads(){
         vector_of_threads.emplace_back(count_part_words,
                 std::ref(queue_text), std::ref(queue_dicts), std::ref(am_of_working_th_text));
     }
+	for (int i = 0; i < am_of_threads; i++) {
 
-    for (int i = 0; i < 1; i++) {
         vector_of_threads.emplace_back(merge_for_one_thread,
                                        std::ref(queue_dicts), std::ref(largeDict), std::ref(smallDict));
     }

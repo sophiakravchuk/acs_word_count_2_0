@@ -11,6 +11,6 @@ config2=config_3threads.txt
 echo start 4 treads > $file
 ./words_count_2_0 ../$config1 >> $file
 
-echo start 3 treads >> $file
-./words_count_2_0 ../$config2  >> $file
+#echo start 3 treads >> $file
+#./words_count_2_0 ../$config2  >> $file
 
