@@ -1,0 +1,68 @@
+start 4 treads
+files:200 largeDict:32532 smallDict:4038 IterSec:1 AllSec:1 
+files:400 largeDict:208200 smallDict:7514 IterSec:12 AllSec:13 
+files:600 largeDict:436770 smallDict:5254 IterSec:18 AllSec:32 
+files:800 largeDict:511613 smallDict:5419 IterSec:24 AllSec:56 
+files:1000 largeDict:594109 smallDict:831 IterSec:37 AllSec:93 
+files:1200 largeDict:690532 smallDict:8658 IterSec:43 AllSec:137 
+files:1400 largeDict:809017 smallDict:8572 IterSec:50 AllSec:188 
+files:1600 largeDict:912558 smallDict:9704 IterSec:58 AllSec:246 
+files:1800 largeDict:980101 smallDict:990 IterSec:64 AllSec:311 
+files:2000 largeDict:1048719 smallDict:6524 IterSec:70 AllSec:382 
+files:2200 largeDict:1112286 smallDict:4026 IterSec:75 AllSec:457 
+files:2400 largeDict:1177149 smallDict:3607 IterSec:79 AllSec:536 
+files:2600 largeDict:1216089 smallDict:7654 IterSec:83 AllSec:620 
+files:2800 largeDict:1268223 smallDict:8630 IterSec:88 AllSec:708 
+files:3000 largeDict:1339469 smallDict:4361 IterSec:93 AllSec:802 
+files:3200 largeDict:1385604 smallDict:8660 IterSec:86 AllSec:888 
+files:3400 largeDict:1507038 smallDict:5534 IterSec:99 AllSec:988 
+files:3600 largeDict:1577162 smallDict:2849 IterSec:107 AllSec:1096 
+files:3800 largeDict:1636736 smallDict:11884 IterSec:115 AllSec:1212 
+files:4000 largeDict:1697577 smallDict:10747 IterSec:120 AllSec:1332 
+files:4200 largeDict:1762279 smallDict:4142 IterSec:126 AllSec:1459 
+files:4400 largeDict:1834264 smallDict:9995 IterSec:130 AllSec:1590 
+files:4600 largeDict:1889693 smallDict:12202 IterSec:82 AllSec:1672 
+files:4800 largeDict:1950590 smallDict:15009 IterSec:87 AllSec:1759 
+files:5000 largeDict:2011634 smallDict:5598 IterSec:94 AllSec:1854 
+files:5200 largeDict:2076576 smallDict:15455 IterSec:97 AllSec:1952 
+files:5400 largeDict:2135840 smallDict:6800 IterSec:100 AllSec:2053 
+files:5600 largeDict:2188638 smallDict:6085 IterSec:104 AllSec:2157 
+files:5800 largeDict:2268578 smallDict:3272 IterSec:107 AllSec:2265 
+files:6000 largeDict:2328278 smallDict:5647 IterSec:111 AllSec:2377 
+files:6200 largeDict:2386503 smallDict:1815 IterSec:114 AllSec:2492 
+files:6400 largeDict:2435088 smallDict:9723 IterSec:117 AllSec:2610 
+files:6600 largeDict:2494492 smallDict:13167 IterSec:121 AllSec:2731 
+files:6800 largeDict:2570971 smallDict:13864 IterSec:127 AllSec:2859 
+files:7000 largeDict:2638320 smallDict:7927 IterSec:132 AllSec:2991 
+files:7200 largeDict:2685569 smallDict:8199 IterSec:135 AllSec:3126 
+files:7400 largeDict:2744416 smallDict:9461 IterSec:139 AllSec:3265 
+files:7600 largeDict:2784459 smallDict:3546 IterSec:145 AllSec:3411 
+files:7800 largeDict:2836736 smallDict:7557 IterSec:147 AllSec:3559 
+files:8000 largeDict:2897263 smallDict:5696 IterSec:151 AllSec:3711 
+files:8200 largeDict:2945758 smallDict:12421 IterSec:155 AllSec:3867 
+files:8400 largeDict:2988812 smallDict:1599 IterSec:160 AllSec:4027 
+files:8600 largeDict:3032468 smallDict:7626 IterSec:165 AllSec:4192 
+files:8800 largeDict:3101869 smallDict:10430 IterSec:169 AllSec:4362 
+files:9000 largeDict:3147473 smallDict:4653 IterSec:171 AllSec:4533 
+files:9200 largeDict:3202582 smallDict:3029 IterSec:174 AllSec:4708 
+files:9400 largeDict:3251101 smallDict:14701 IterSec:180 AllSec:4888 
+files:9600 largeDict:3297473 smallDict:4150 IterSec:186 AllSec:5075 
+files:9800 largeDict:3353828 smallDict:7821 IterSec:195 AllSec:5271 
+files:10000 largeDict:3400932 smallDict:17107 IterSec:194 AllSec:5465 
+files:10200 largeDict:3445117 smallDict:5867 IterSec:197 AllSec:5662 
+files:10400 largeDict:3492910 smallDict:3472 IterSec:199 AllSec:5862 
+files:10600 largeDict:3556301 smallDict:9727 IterSec:204 AllSec:6066 
+files:10800 largeDict:3597385 smallDict:5270 IterSec:209 AllSec:6275 
+files:11000 largeDict:3648081 smallDict:2151 IterSec:211 AllSec:6487 
+files:11200 largeDict:3694794 smallDict:8252 IterSec:216 AllSec:6703 
+files:11400 largeDict:3744993 smallDict:4611 IterSec:219 AllSec:6923 
+files:11600 largeDict:3801319 smallDict:20122 IterSec:223 AllSec:7146 
+files:11800 largeDict:3868299 smallDict:5865 IterSec:227 AllSec:7374 
+files:12000 largeDict:3909195 smallDict:7559 IterSec:235 AllSec:7609 
+files:12200 largeDict:3960825 smallDict:6444 IterSec:237 AllSec:7847 
+files:12400 largeDict:4015858 smallDict:6296 IterSec:241 AllSec:8088 
+files:12600 largeDict:4067735 smallDict:8416 IterSec:245 AllSec:8333 
+files:12800 largeDict:4107210 smallDict:3377 IterSec:248 AllSec:8581 
+files:13000 largeDict:4172979 smallDict:4843 IterSec:251 AllSec:8833 
+files:13200 largeDict:4211650 smallDict:5714 IterSec:254 AllSec:9088 
+files:13400 largeDict:4250209 smallDict:7848 IterSec:258 AllSec:9347 
